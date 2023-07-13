@@ -18,25 +18,19 @@ events in the city could be detected via monitoring these data.
 
 ## Questions About Business Insights
 
-1. How does temperature affect bike rentals? Are there certain temperature ranges that correspond to higher or lower rental counts?
+1. How does wind speed influence bike rentals? Is there a correlation between higher wind speeds and lower rental counts?
 
-2. Does precipitation (rain, snow) affect bike rentals? Is there a decrease in rentals on rainy or snowy days compared to dry days?
+2. Do different weather conditions, such as clear skies, cloudy days, or overcast conditions, affect bike rental patterns?
 
-3. How does wind speed influence bike rentals? Is there a correlation between higher wind speeds and lower rental counts?
+3. Are there specific weather conditions that lead to a higher demand for bike rentals, such as sunny days with moderate temperatures?
 
-4. Do different weather conditions, such as clear skies, cloudy days, or overcast conditions, affect bike rental patterns?
+4. How do seasonal weather variations impact bike rentals? Are there specific seasons or weather patterns that result in higher or lower rental counts?
 
-5. Is there a relationship between humidity levels and bike rentals? Do more humid or less humid days impact rental counts?
+5. Does the impact of weather conditions on bike rentals differ based on weekdays versus weekends?
 
-6. Are there specific weather conditions that lead to a higher demand for bike rentals, such as sunny days with moderate temperatures?
+6. Are there specific time periods within a day when weather conditions have a stronger influence on bike rental counts?
 
-7. How do seasonal weather variations impact bike rentals? Are there specific seasons or weather patterns that result in higher or lower rental counts?
-
-8. Does the impact of weather conditions on bike rentals differ based on weekdays versus weekends?
-
-9. Are there specific time periods within a day when weather conditions have a stronger influence on bike rental counts?
-
-10. Can you identify any interactions or combinations of weather factors (e.g., temperature and precipitation) that have a significant impact on bike rentals?
+7. Can you identify any interactions or combinations of weather factors (e.g., temperature and precipitation) that have a significant impact on bike rentals?
 
 
 ## Skills/ Concepts Demonstrated
